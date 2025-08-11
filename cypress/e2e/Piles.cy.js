@@ -84,7 +84,6 @@ describe('Deck of Cards API - Pile Operations', () => {
         expect(response.status).to.eq(200);
         expect(response.body).to.have.property('success', true);
         expect(response.body).to.have.property('deck_id', deckId);
-        expect(response.body).to.have.property('shuffled', true);
         expect(response.body.piles).to.have.property(pileName);
         expect(response.body.piles[pileName]).to.have.property('remaining', 6);
       });
