@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  },
   "scripts": {
     "test": "cypress run"
   },
