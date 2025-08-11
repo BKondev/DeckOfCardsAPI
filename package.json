@@ -1,0 +1,21 @@
+{
+  "name": "deckofcardsapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BKondev/DeckOfCardsAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BKondev/DeckOfCardsAPI/issues"
+  },
+  "homepage": "https://github.com/BKondev/DeckOfCardsAPI#readme"
+}
